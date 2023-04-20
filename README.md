@@ -20,7 +20,7 @@ ones. Unlike other systems which focus only on a particular set of people, our s
 challenged people too. The user will be able to give commands to the system, which, the system will follow.
 Moreover, the system will prompt the user to perform specific actions to avail respective services.
 
-# APPLICATION
+# Application
 
 This project is proposed for the betterment of society. This project aims to help the visually impaired people to be a
 part of growing digital India by using internet and also aims to make life of such people quite easy. Also, the success
@@ -30,11 +30,11 @@ The individuals having typing problems can also take advantage of this system.
 
 # Purposed approach and its advantages over existing system:
 
- User friendly (as Blind person can easily use web based application).
- Easy Storage of data.
- More efficient.
- Requires less effort and time.
- The system that we are developing is entirely different from the existing ones. Unlike other systems which
+User friendly (as Blind person can easily use web based application).
+Easy Storage of data.
+More efficient.
+Requires less effort and time.
+The system that we are developing is entirely different from the existing ones. Unlike other systems which
 focus only on a particular set of people, our system is focused on visually challenged people too.
- It also helps handicapped and illiterate people.
+It also helps handicapped and illiterate people.
 
